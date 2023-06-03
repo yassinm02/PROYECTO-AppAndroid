@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="c_mara">Cámara</string>
+    <string name="recargar">Recargar</string>
+    <string name="escaneando_indigo_qr">Escaneando indigo QR...</string>
+    <string name="barcode_text">Barcode Text</string>
+</resources>
