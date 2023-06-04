@@ -2,9 +2,13 @@
     <item
         android:id="@+id/action_reload"
         android:icon="@drawable/ic_reload"
-        android:title="@string/recargar" />
+        android:title="@string/recargar"
+        android:background="#DDD0C8"
+        android:textColor="#323232" />
     <item
         android:id="@+id/action_camera"
         android:icon="@drawable/ic_camera"
-        android:title="@string/c_mara" />
+        android:title="@string/c_mara"
+        android:background="#DDD0C8"
+        android:textColor="#323232" />
 </menu>
